@@ -4,17 +4,17 @@ In this article, we will show you how to create a Spring Boot JDBC application +
 
 Tools used in this article :
 
-1. Spring Boot 1.5.2.RELEASE
+1. Spring Boot 1.5.15.RELEASE
 2. MySQL 5.7.x
 3. HikariCP 2.6
 4. Maven
 5. Java 8
+6. IntelliJ IDEA Ultimate 2018.2
 
 
 
 ```java
 mvn package
-
 java -jar target/spring-boot-jdbc-1.0.jar
 
 
